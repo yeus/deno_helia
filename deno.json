@@ -2,5 +2,8 @@
   "tasks": {
     "dev": "deno run --watch main.ts"
   },
-  "nodeModulesDir": "auto"
+  "nodeModulesDir": "auto",
+  "imports": {
+    "helia": "npm:helia@^5.4.2"
+  }
 }
