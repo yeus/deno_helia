@@ -4,6 +4,7 @@
   },
   "nodeModulesDir": "auto",
   "imports": {
-    "helia": "npm:helia@^5.4.2"
+    "helia": "npm:helia@^5.4.2",
+    "@achingbrain/ssdp": "npm:@achingbrain/ssdp@latest"
   }
 }
